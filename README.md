@@ -8,11 +8,17 @@ The purpose of this project is to have a personal server for various application
 
 📌 Project Contents
 
-🔹 Infrastructure and Hardware - Equipment selection and initial configuration. 🔹 Installation and Configuration - Essential operating systems, tools and settings. 🔹 Automation - Scripts and tools to facilitate server management. 🔹 Security - Measures to protect the server and information. 🔹 Use Cases - Practical applications and performance optimisation.
+🔹 Infrastructure and Hardware - Equipment selection and initial configuration. 
+🔹 Installation and Configuration - Essential operating systems, tools and settings. 
+🔹 Automation - Scripts and tools to facilitate server management. 
+🔹 Security - Measures to protect the server and information. 
+🔹 Use Cases - Practical applications and performance optimisation.
 
 📅 Upcoming Articles
 
-📖 How I set up my server from scratch - Choosing hardware and initial configuration.🛠️ Automating tasks on my server - Useful scripts and tools.🔒 Basic security measures - How to protect access and data.
+📖 How I set up my server from scratch - Choosing hardware and initial configuration.
+🛠️ Automating tasks on my server - Useful scripts and tools.
+🔒 Basic security measures - How to protect access and data.
 
 📡 Follow the Project
 
