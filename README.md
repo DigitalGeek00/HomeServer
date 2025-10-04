@@ -40,3 +40,12 @@ This project is constantly evolving. If you're interested, save this page or fol
 
 Feel free to reach out if you have any questions, doubts, or if you’d like to share your own experiences! 💬
 
+--- 
+
+🧩 Current Status – October 2025
+
+The server is currently up and running on repurposed hardware (details below) using OpenMediaVault, Docker, and several containers (including Plex and Transmission).
+
+It’s been running stably for a few months, used for media streaming and basic automation at home.
+
+Next step: start publishing configuration files and documenting the full setup process.
