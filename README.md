@@ -1,95 +1,39 @@
-# 🏠 Homelab-Experiment – (Legacy) 🚀
+🏠 Homelab Experiment (Learning Project)
+📌 Overview
 
-Welcome to my documentation on creating and optimising a **homebrew server**.  
-Here I share my progress, configurations, and lessons learned as I build and improve my own setup from scratch — aiming for the **lowest possible budget** while making the most of available resources.
+This repository documents my early experiments setting up a personal home server using repurposed hardware and self-hosted tools.
 
----
+It was created as a learning project while I was exploring system administration, Linux environments, and Docker for the first time.
 
-## 💡 Project Goal
+At the time, my focus was on understanding how real-world infrastructure works rather than building production systems.
 
-The goal of this project is to build a **personal server** for various applications such as:
-- Network storage  
-- Hosting lightweight services  
-- Task automation  
-- Experimenting with new technologies  
+🎯 Purpose of the project
+Learn basic Linux server administration
+Experiment with self-hosted services
+Understand Docker and containerization
+Build and maintain a low-cost home server setup
+Gain hands-on experience with networking and system configuration
+🧠 What I learned
 
-All while keeping **costs and power consumption** as low as possible.
+Even though the documentation is incomplete, this project helped me understand:
 
-This is not just about building a server, but about **learning through trial and error**, and documenting the process so others can **replicate or get inspired** by it.
+Basic server setup and maintenance
+Running services on Linux systems
+Container-based deployment with Docker
+Resource limitations of older hardware
+Practical aspects of self-hosting
+📌 Current status
 
-I’m using **old repurposed hardware**, which I got for almost nothing.  
-For me, it’s a perfect example of how you can build a functional server with minimal cost.  
+This project is no longer actively developed.
 
-I’m fully aware that low-power solutions like **Raspberry Pi** or similar devices are more energy-efficient — but in this case, the challenge is to **optimise performance and power usage through configuration**.
+My focus has shifted toward learning Python and software development fundamentals as part of my transition into IT.
 
-This project has an **academic and self-taught purpose**:  
-the goal is to learn, improve, and understand the underlying concepts.  
-The configuration I’m following works for me, but there are many valid approaches — this is just one example based on my hardware and budget.
+🚀 Next direction
+Python automation and scripting
+Backend development basics (Flask / FastAPI)
+Building small tools and utilities
+Strengthening Linux and system scripting skills
+💬 Final note
 
----
-
-## 🧩 Hardware Setup
-
-| Component | Description |
-|------------|-------------|
-| **CPU** | Intel Core i3-2120 @ 3.3 GHz Dual Core LGA 1155 |
-| **RAM** | 8GB (2x4GB) DDR3 |
-| **Storage** | 240GB SSD (OS and software) + 320GB HDD (media) |
-| **Network** | Gigabit Ethernet (Wake-on-LAN enabled & PowerOff from smartphone app console) |
-| **Operating System** | OpenMediaVault 7 |
-| **Power Usage** | ~45–55W idle |
-
----
-
-## 📁 Project Contents 
-
-🔹 **Infrastructure and Hardware** – Equipment selection and initial configuration  
-🔹 **Installation and Configuration** – OS setup, Docker, and essential tools  
-🔹 **Automation** – Scripts and utilities for easier management  
-🔹 **Security** – Basic protection measures and monitoring  
-🔹 **Use Cases** – Real-world applications and performance insights  
-
----
-
-## 🗓 Roadmap
-
-- [x] Hardware selection and setup  
-- [x] OpenMediaVault installation  
-- [x] Docker setup and container management  
-- [ ] Media server deployment  
-- [ ] Personal cloud setup  
-- [ ] VPN integration  
-- [ ] Automation with scripts  
-- [ ] Security hardening  
-- [ ] Performance monitoring and optimisation  
-
----
-
-## 🧠 Current Status (October 2025)
-
-✅ Server running on repurposed hardware  
-✅ OpenMediaVault and Docker installed  
-✅ Several containers running (Plex, Transmission, Portainer)  
-🟡 Next step: publish configuration files and document the full setup  
-
-The system has been stable for a few months, used daily for **media streaming and basic automation** at home.
-
----
-
-## 🔜 Next Update
-
-I will document the full server configuration and share initial scripts/config files to give a clearer view of how everything is set up and running.  
-This will be the first step towards making the project more reproducible for others.
-
----
-
-## 📡 Follow the Project
-
-This project is constantly evolving.  
-If you’re interested, **watch this repo** or follow me here on GitHub to stay updated with new developments and tips.
-
-Feel free to reach out if you have any questions, feedback, or want to share your own experiences! 💬
-
----
-
-> This is a personal learning project — I’m not a professional developer (yet), but I’m genuinely passionate about technology, self-hosting, and learning by doing.
+This repository represents an early stage in my self-learning journey.
+While incomplete, it reflects my first practical exposure to real systems and infrastructure.
