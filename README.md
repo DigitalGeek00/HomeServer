@@ -1,4 +1,4 @@
-# 🏠 My Homebrew Server – Project in Development 🚀
+# 🏠 Homelab-Experiment – (Legacy) 🚀
 
 Welcome to my documentation on creating and optimising a **homebrew server**.  
 Here I share my progress, configurations, and lessons learned as I build and improve my own setup from scratch — aiming for the **lowest possible budget** while making the most of available resources.
